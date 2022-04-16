@@ -1,0 +1,5 @@
+com\aws\service\firstclient\FirstClientApplication.class
+com\aws\service\firstclient\services\ClientService.class
+com\aws\service\firstclient\controller\ClientController.class
+com\aws\service\firstclient\services\impl\ClientServiceImpl.class
+com\aws\service\firstclient\dto\ResponseBean.class
